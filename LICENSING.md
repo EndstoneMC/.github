@@ -9,7 +9,7 @@ This document describes the licensing approach across EndstoneMC repositories.
 | Core framework | Apache-2.0 | endstone |
 | Ecosystem plugins | Apache-2.0 | endweave, sentry-crashpad |
 | Templates and tools | MIT | python-example-plugin, cpp-example-plugin, stubgen, dwarf2cpp, bedrock-dumper, bedrock-server-data, remote-dev, pterodactyl |
-| Infrastructure | AGPL-3.0 | endgate |
+| Infrastructure (dual-licensed) | AGPL-3.0 or commercial | endgate |
 
 ## Rationale
 
@@ -20,8 +20,10 @@ for their own plugins.
 **MIT** for templates, tools, and examples keeps them as simple and permissive as possible.
 Developers forking a template should not be burdened by license complexity.
 
-**AGPL-3.0** for infrastructure services ensures that modifications to hosted services are
-shared back with the community.
+**AGPL-3.0** for infrastructure services is dual-licensed. The open source AGPL-3.0 license
+requires any SaaS or hosted service running a modified version to release their changes.
+Organizations that want to run modified versions without this obligation can acquire a
+commercial license. Contact hello@endstone.dev for commercial licensing inquiries.
 
 ## For Contributors
 
