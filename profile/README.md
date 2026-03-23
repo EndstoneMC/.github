@@ -20,12 +20,12 @@ Then build your first plugin with our templates:
 
 ### The Ecosystem
 
-| | Repository | What it does |
-|-|------------|--------------|
-| | **[Endstone](https://github.com/EndstoneMC/endstone)** | The core framework. Plugin API, server runtime, event system. |
-| | **[Endweave](https://github.com/EndstoneMC/endweave)** | Protocol translation so newer clients can join older servers. Keeps your community online during Minecraft updates instead of waiting for a server update. |
-| | **[Plugin Templates](https://github.com/EndstoneMC/python-example-plugin)** | Ready-to-use starter templates for [Python](https://github.com/EndstoneMC/python-example-plugin) and [C++](https://github.com/EndstoneMC/cpp-example-plugin) plugins. |
-| | **[Pterodactyl Egg](https://github.com/EndstoneMC/pterodactyl)** | One-click deployment on Pterodactyl and Pelican hosting panels. |
+| Repository | What it does |
+|------------|--------------|
+| **[Endstone](https://github.com/EndstoneMC/endstone)** | The core framework. Plugin API, server runtime, event system. |
+| **[Endweave](https://github.com/EndstoneMC/endweave)** | Protocol translation so newer clients can join older servers. Keeps your community online during Minecraft updates instead of waiting for a server update. |
+| **[Plugin Templates](https://github.com/EndstoneMC/python-example-plugin)** | Ready-to-use starter templates for [Python](https://github.com/EndstoneMC/python-example-plugin) and [C++](https://github.com/EndstoneMC/cpp-example-plugin) plugins. |
+| **[Pterodactyl Egg](https://github.com/EndstoneMC/pterodactyl)** | One-click deployment on Pterodactyl and Pelican hosting panels. |
 
 ### For Contributors
 
