@@ -11,8 +11,10 @@ for Java Edition.
 ### Get Started
 
 ```bash
-pip install endstone
+uvx endstone
 ```
+
+Or with pip: `pip install endstone && endstone`
 
 Then build your first plugin with our templates:
 **[Python template](https://github.com/EndstoneMC/python-example-plugin)** |
