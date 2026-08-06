@@ -1,10 +1,7 @@
 ![Banner](https://capsule-render.vercel.app/api?type=venom&height=200&color=gradient&text=Endstone&fontColor=0:8871e5,100:b678c4&desc=Your%20Bedrock%20Experience%20Elevated.&descAlignY=71&descSize=15&animation=fadeIn)
 
-**Endstone** began as a plugin framework for Minecraft Bedrock Dedicated Server and has grown into
-a whole ecosystem for running Bedrock servers: server software you extend in **Python** or **C++**
-just like Bukkit/Paper does for Java Edition, a proxy in front of it, a Node.js runtime for your
-Script API addons, a profiler, and the protocol toolchain that keeps all of it current with every
-Minecraft update.
+**Endstone** is an ecosystem for Minecraft Bedrock servers: server software you extend in
+**Python** or **C++**, a proxy, and the toolchains behind them.
 
 **[Documentation](https://endstone.dev)** |
 **[Discord](https://discord.gg/xxgPuc2XN9)** |
