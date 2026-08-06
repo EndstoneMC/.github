@@ -36,6 +36,7 @@ Then build your first plugin with our templates:
 
 | Repository | Description |
 |------------|-------------|
+| [bedrock-protocol](https://github.com/EndstoneMC/bedrock-protocol) | Python DSL that generates version-aware C++ packet codecs for the Bedrock protocol |
 | [protocol-docs](https://github.com/EndstoneMC/protocol-docs) | Up-to-date Bedrock protocol documentation, extracted straight from BDS |
 | [protocol-dumper](https://github.com/EndstoneMC/protocol-dumper) | Extracts packet, struct and enum schemas as JSON from a running BDS |
 | [nethernet-python](https://github.com/EndstoneMC/nethernet-python) | Cleanroom Python implementation of Bedrock's NetherNet P2P/LAN transport |
