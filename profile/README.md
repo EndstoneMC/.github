@@ -25,12 +25,12 @@ Then build your first plugin with our templates:
 | Repository | What it does |
 |------------|--------------|
 | **[Endstone](https://github.com/EndstoneMC/endstone)** | The core framework. Plugin API, server runtime, event system. |
-| **[scripting-nodejs](https://github.com/EndstoneMC/scripting-nodejs-release)** | Runs your existing Script API behaviour packs on a real Node.js runtime, with the whole npm ecosystem behind them. |
 | **[Endweave](https://github.com/EndstoneMC/endweave)** | Protocol translation so newer clients can join older servers. Keeps your community online during Minecraft updates instead of waiting for a server update. |
+| **Endgate** | A modern, high-performance server proxy for Bedrock Edition. In development. |
+| **[scripting-nodejs](https://github.com/EndstoneMC/scripting-nodejs-release)** | Runs your existing Script API behaviour packs on a real Node.js runtime, with the whole npm ecosystem behind them. |
 | **[spark](https://github.com/EndstoneMC/spark)** | The spark profiler, ported to Endstone. Shows where your tick time actually goes, in spark's own web viewer. |
 | **[Plugin Templates](https://github.com/EndstoneMC/python-example-plugin)** | Ready-to-use starter templates for [Python](https://github.com/EndstoneMC/python-example-plugin) and [C++](https://github.com/EndstoneMC/cpp-example-plugin) plugins. |
 | **[Pterodactyl Egg](https://github.com/EndstoneMC/pterodactyl)** | One-click deployment on Pterodactyl and Pelican hosting panels. |
-| **Endgate** | A modern, high-performance server proxy for Bedrock Edition. In development. |
 
 ### For Contributors
 
