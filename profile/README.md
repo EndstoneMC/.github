@@ -1,7 +1,7 @@
 ![Banner](https://capsule-render.vercel.app/api?type=venom&height=200&color=gradient&text=Endstone&fontColor=0:8871e5,100:b678c4&desc=Your%20Bedrock%20Experience%20Elevated.&descAlignY=71&descSize=15&animation=fadeIn)
 
-**Endstone** is an ecosystem for Minecraft Bedrock servers: server software you extend in
-**Python** or **C++**, a proxy, and the toolchains behind them.
+**Endstone** is an ecosystem for Minecraft Bedrock servers: high-performance server software you
+extend in **Python** or **C++**, a proxy, and the toolchains behind them.
 
 **[Documentation](https://endstone.dev)** |
 **[Discord](https://discord.gg/xxgPuc2XN9)** |
@@ -23,7 +23,7 @@ Then build your first plugin with our templates:
 
 | Repository | What it does |
 |------------|--------------|
-| **[Endstone](https://github.com/EndstoneMC/endstone)** | The core framework. Plugin API, server runtime, event system. |
+| **[Endstone](https://github.com/EndstoneMC/endstone)** | The core framework. Plugin API, event system, and a server runtime with over 2x the TPS of vanilla BDS. |
 | **[Endweave](https://github.com/EndstoneMC/endweave)** | Protocol translation so newer clients can join older servers. Keeps your community online during Minecraft updates instead of waiting for a server update. |
 | **Endgate** | A modern, high-performance server proxy for Bedrock Edition. In development. |
 | **[scripting-nodejs](https://github.com/EndstoneMC/scripting-nodejs-release)** | Runs your existing Script API behaviour packs on a real Node.js runtime, with the whole npm ecosystem behind them. |
